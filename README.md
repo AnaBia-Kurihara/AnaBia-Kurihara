@@ -1,59 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f9a8d4,50:c084fc,100:a78bfa&text=Oi,%20eu%20sou%20a%20Ana%20Bia%20%F0%9F%8C%B8&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20FIAP&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Ana Beatriz Kurihara - Desenvolvedora Backend em formação" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=620&lines=Desenvolvedora+Backend+em+forma%C3%A7%C3%A3o+%E2%98%95;Foco+em+Java+e+Spring+Boot+%E2%9C%A8;Python+%E2%80%A2+JavaScript+%E2%80%A2+SQL+%E2%80%A2+React" />
+  <img src="https://img.shields.io/badge/Sistemas%20de%20Informa%C3%A7%C3%A3o-FIAP-ED145B?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AnaBia-Kurihara&label=visitas%20ao%20perfil&color=c084fc&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🌷 Sobre mim
+<img src="assets/sec-sobre.svg" width="100%" alt="Sobre mim" />
 
 Estudante de **Sistemas de Informação na FIAP**, com foco em **desenvolvimento backend com Java**.
 Gosto de transformar problemas reais em sistemas simples de usar.
 
----
-
-## 🎓 Projetos da FIAP
-
-Todos os projetos da faculdade, organizados por **ano** e **semestre**:
+<img src="assets/sec-stack.svg" width="100%" alt="Tecnologias" />
 
 <p align="center">
-  <a href="https://github.com/AnaBia-Kurihara/fiap-sistemas-de-informacao">
-    <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Acessar%20portf%C3%B3lio%20acad%C3%AAmico-c084fc?style=for-the-badge" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,postgres,html,css,git,github&perline=10" alt="Java, Spring, Python, JavaScript, React, PostgreSQL, HTML, CSS, Git, GitHub" />
 </p>
 
----
-
-## 💻 Projetos Pessoais
-
-<details open>
-<summary><b>Clique para abrir ou fechar</b></summary>
-<br>
-
-| Projeto | Sobre | Stack |
-|:--|:--|:--|
-| ⛪ **[Pascom Fátima](https://github.com/AnaBia-Kurihara/pascom-api-gestao-projetos)** | Sistema de gestão de voluntários da Pastoral da Comunicação: escalas automáticas, lembretes no celular, em uso real | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
-| 🎧 **[Media Manager](https://github.com/AnaBia-Kurihara/media-manager-poo)** | CLI para gerenciar músicas e podcasts aplicando POO: herança, polimorfismo e interfaces | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
-| 🛒 **[TechStore SQL](https://github.com/AnaBia-Kurihara/techstore-sql-analysis)** | Análise de vendas de um e-commerce de eletrônicos com dashboard em Excel | ![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white) |
-| 🏓 **[Pong](https://github.com/AnaBia-Kurihara/pong-p5js)** | O clássico jogo Pong feito com p5.js | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-
-</details>
-
----
+<img src="assets/sec-fiap.svg" width="100%" alt="Projetos da FIAP" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a78bfa,50:c084fc,100:f9a8d4&section=footer" width="100%" />
+  <a href="https://github.com/AnaBia-Kurihara/fiap-sistemas-de-informacao"><img src="assets/card-fiap.svg" width="70%" alt="Portfólio Acadêmico da FIAP - acessar" /></a>
 </p>
+
+<img src="assets/sec-pessoais.svg" width="100%" alt="Projetos Pessoais" />
+
+<p align="center">
+  <a href="https://github.com/AnaBia-Kurihara/pascom-api-gestao-projetos"><img src="assets/card-pascom.svg" width="49%" alt="Pascom Fátima" /></a>
+  <a href="https://github.com/AnaBia-Kurihara/media-manager-poo"><img src="assets/card-media.svg" width="49%" alt="Media Manager" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AnaBia-Kurihara/techstore-sql-analysis"><img src="assets/card-techstore.svg" width="49%" alt="TechStore SQL" /></a>
+  <a href="https://github.com/AnaBia-Kurihara/pong-p5js"><img src="assets/card-pong.svg" width="49%" alt="Pong" /></a>
+</p>
+
+<img src="assets/sec-atividade.svg" width="100%" alt="Atividade" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaBia-Kurihara/AnaBia-Kurihara/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaBia-Kurihara/AnaBia-Kurihara/output/snake-light.svg" />
+    <img alt="Animação das minhas contribuições no GitHub" src="https://raw.githubusercontent.com/AnaBia-Kurihara/AnaBia-Kurihara/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
