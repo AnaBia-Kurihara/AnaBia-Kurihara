@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 266" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" role="img"
+     aria-label="Ana Beatriz Kurihara. Estudante de Sistemas de Informação na FIAP. Desenvolvedora backend em formação, com foco em Java.">
+  
+  <text x="4" y="26" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/></text>
+  <clipPath id="c0"><rect x="0" y="4" height="32" width="0">
+    <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0" calcMode="discrete" begin="0.70s" dur="0.32s" fill="freeze"/></rect></clipPath>
+  <text x="47.2" y="26" fill="#a855f7" clip-path="url(#c0)" textLength="64.8">whoami</text>
+  <text x="4" y="62" fill="#e0559b" font-size="26" font-weight="700" opacity="0">Ana Beatriz Kurihara<set attributeName="opacity" to="1" begin="1.27s" fill="freeze"/></text>
+  <text x="4" y="90" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="1.62s" fill="freeze"/></text>
+  <clipPath id="c2"><rect x="0" y="68" height="32" width="0">
+    <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4;155.2;166.0;176.8;187.6" calcMode="discrete" begin="1.92s" dur="0.63s" fill="freeze"/></rect></clipPath>
+  <text x="47.2" y="90" fill="#a855f7" clip-path="url(#c2)" textLength="140.4">cat sobre.txt</text>
+  <text x="4" y="122" fill="#8b949e" font-size="18" font-weight="400" opacity="0">Estudante de Sistemas de Informação na FIAP<set attributeName="opacity" to="1" begin="2.79s" fill="freeze"/></text>
+  <text x="4" y="154" fill="#8b949e" font-size="18" font-weight="400" opacity="0">Desenvolvedora backend em formação, com foco em Java<set attributeName="opacity" to="1" begin="3.15s" fill="freeze"/></text>
+  <text x="4" y="186" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="3.50s" fill="freeze"/></text>
+  <clipPath id="c5"><rect x="0" y="164" height="32" width="0">
+    <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4" calcMode="discrete" begin="3.79s" dur="0.45s" fill="freeze"/></rect></clipPath>
+  <text x="47.2" y="186" fill="#a855f7" clip-path="url(#c5)" textLength="97.2">ls stack/</text>
+  <text x="4" y="218" fill="#8b949e" font-size="18" font-weight="400" opacity="0">java  spring-boot  python  javascript  react  sql  git<set attributeName="opacity" to="1" begin="4.50s" fill="freeze"/></text>
+  <text x="4" y="250" fill="#e0559b" opacity="0" xml:space="preserve">~ $ <set attributeName="opacity" to="1" begin="4.84s" fill="freeze"/></text>
+  <rect x="47.2" y="234" width="10" height="20" fill="#e0559b" opacity="0">
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" begin="4.84s" repeatCount="indefinite"/>
+  </rect>
+</svg>
