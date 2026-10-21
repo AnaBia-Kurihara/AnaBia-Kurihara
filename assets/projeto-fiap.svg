@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" role="img" aria-label="Portfólio Acadêmico: Projetos da faculdade organizados por ano e semestre, com as disciplinas cursadas.">
+  <rect x=".5" y=".5" width="479" height="199" rx="12" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(24 22)">
+    <rect width="64" height="64" rx="10" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(2 2) scale(.833)">
+      <defs><linearGradient id="gc" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6e40c9"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
+      <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.4s" begin="0.5s" repeatCount="indefinite"/>
+        <path d="M36 42 L62 54 L36 66 L10 54 Z" fill="#6e40c9" fill-opacity="0.35" stroke="#fff" stroke-opacity=".3"/></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.4s" begin="0.25s" repeatCount="indefinite"/>
+        <path d="M36 28 L62 40 L36 52 L10 40 Z" fill="#8b949e" fill-opacity="0.6" stroke="#fff" stroke-opacity=".3"/></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+        <path d="M36 14 L62 26 L36 38 L10 26 Z" fill="#a371f7" fill-opacity="0.9" stroke="#fff" stroke-opacity=".3"/></g>
+    </g></g>
+  <text x="104" y="48" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Portfólio Acadêmico</text>
+  <text x="104" y="72" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#8b949e">FIAP · SISTEMAS DE INFORMAÇÃO</text>
+  <path d="M442 40 L454 28 M445 28 H454 V37" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="24" y="118" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#9da7b3">Projetos da faculdade organizados por ano</text><text x="24" y="138" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#9da7b3">e semestre, com as disciplinas cursadas.</text>
+  <rect x="24" y="160" width="60" height="22" rx="6" fill="none" stroke="#30363d"/><text x="54" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">1º ano</text><rect x="90.4" y="160" width="83" height="22" rx="6" fill="none" stroke="#30363d"/><text x="132" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">Front-end</text><rect x="179.0" y="160" width="46" height="22" rx="6" fill="none" stroke="#30363d"/><text x="202" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">Java</text>
+</svg>

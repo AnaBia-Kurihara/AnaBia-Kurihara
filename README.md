@@ -1,4 +1,4 @@
-<img src="assets/terminal.svg" width="640" alt="Ana Beatriz Kurihara. Estudante de Sistemas de Informação na FIAP. Desenvolvedora backend em formação, com foco em Java." />
+<img src="assets/cabecalho-terminal.svg" width="640" alt="Ana Beatriz Kurihara. Estudante de Sistemas de Informação na FIAP. Desenvolvedora backend em formação, com foco em Java." />
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -12,11 +12,11 @@
 
 ### Projetos da FIAP
 
-<a href="https://github.com/AnaBia-Kurihara/fiap-sistemas-de-informacao"><img src="assets/card-fiap.svg" width="49%" alt="Portfólio Acadêmico da FIAP" /></a>
+<a href="https://github.com/AnaBia-Kurihara/fiap-sistemas-de-informacao"><img src="assets/projeto-fiap.svg" width="49%" alt="Portfólio Acadêmico da FIAP" /></a>
 
 ### Projetos pessoais
 
-<a href="https://github.com/AnaBia-Kurihara/pascom-api-gestao-projetos"><img src="assets/card-pascom.svg" width="49%" alt="Pascom Fátima" /></a>
-<a href="https://github.com/AnaBia-Kurihara/media-manager-poo"><img src="assets/card-media.svg" width="49%" alt="Media Manager" /></a>
-<a href="https://github.com/AnaBia-Kurihara/techstore-sql-analysis"><img src="assets/card-techstore.svg" width="49%" alt="TechStore SQL" /></a>
-<a href="https://github.com/AnaBia-Kurihara/pong-p5js"><img src="assets/card-pong.svg" width="49%" alt="Pong" /></a>
+<a href="https://github.com/AnaBia-Kurihara/pascom-api-gestao-projetos"><img src="assets/projeto-pascom.svg" width="49%" alt="Pascom Fátima" /></a>
+<a href="https://github.com/AnaBia-Kurihara/media-manager-poo"><img src="assets/projeto-media.svg" width="49%" alt="Media Manager" /></a>
+<a href="https://github.com/AnaBia-Kurihara/techstore-sql-analysis"><img src="assets/projeto-techstore.svg" width="49%" alt="TechStore SQL" /></a>
+<a href="https://github.com/AnaBia-Kurihara/pong-p5js"><img src="assets/projeto-pong.svg" width="49%" alt="Pong" /></a>
