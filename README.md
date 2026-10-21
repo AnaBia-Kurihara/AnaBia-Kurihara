@@ -18,5 +18,7 @@
 
 <a href="https://github.com/AnaBia-Kurihara/pascom-api-gestao-projetos"><img src="assets/projeto-pascom.svg" width="49%" alt="Pascom Fátima" /></a>
 <a href="https://github.com/AnaBia-Kurihara/media-manager-poo"><img src="assets/projeto-media.svg" width="49%" alt="Media Manager" /></a>
-<a href="https://github.com/AnaBia-Kurihara/techstore-sql-analysis"><img src="assets/projeto-techstore.svg" width="49%" alt="TechStore SQL" /></a>
 <a href="https://github.com/AnaBia-Kurihara/pong-p5js"><img src="assets/projeto-pong.svg" width="49%" alt="Pong" /></a>
+<a href="https://github.com/AnaBia-Kurihara/techstore-sql-analysis"><img src="assets/projeto-techstore.svg" width="49%" alt="TechStore SQL" /></a>
+<br>
+<a href="https://anabia-kurihara.github.io/pong-p5js/"><img src="assets/jogar-pong.svg" width="49%" alt="Jogar Pong no navegador" /></a>
